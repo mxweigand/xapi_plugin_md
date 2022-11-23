@@ -1,0 +1,7 @@
+/*
+!src
+!magic-draw-plugin
+!magic-draw-plugin/de.hsuifa.xapi_plugin/
+magic-draw-plugin/de.hsuifa.xapi_plugin/*jar
+!pom.xml
+!.gitignore

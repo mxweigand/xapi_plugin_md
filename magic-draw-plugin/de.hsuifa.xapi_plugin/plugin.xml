@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+        id="de.hsuifa.xapi.xapi_plugin.md_plugin"
+        name="xapi_plugin"
+        version="0.0.1"
+        provider-name="Maximilian Weigand"
+        class="de.hsuifa.xapi.xapi_plugin.xapi_plugin_md.MDPluginXapiImpl">
+
+    <runtime>
+        <library name="xapi_plugin_base-0.0.1.jar"/>
+		<library name="xapi_plugin_md-0.0.1.jar"/>
+		<library name="json-20220320.jar"/>
+    </runtime>
+	
+</plugin>
